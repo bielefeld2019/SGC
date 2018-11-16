@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Testando</title>
+	<title>EloVerde</title>
 </head>
 <body>
-<h1>Test</h1>
-<H3>EloVerde</H3>
+<h1></h1>
 </body>
 </html>
