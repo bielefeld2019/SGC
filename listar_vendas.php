@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Produtos</title>
+	<title>Vendas</title>
 	<meta charset="utf-8">
 
 	
